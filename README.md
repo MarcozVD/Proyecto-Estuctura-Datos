@@ -5,4 +5,4 @@
 - [x] Programar
 - [x] Sacar 5
 - [x] Terminar el semestre
-- [] Descansar
+- [x] Descansar
